@@ -1,0 +1,23 @@
+{
+  "name": "autoload-module",
+  "version": "1.0.0",
+  "description": "AutoLoad modules,models,files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samayun/autoload-module.git"
+  },
+  "keywords": [
+    "Autoload",
+    "modules"
+  ],
+  "author": "SAMAYUN CHOWDHURY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samayun/autoload-module/issues"
+  },
+  "homepage": "https://github.com/samayun/autoload-module#readme"
+}
